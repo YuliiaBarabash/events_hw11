@@ -1,0 +1,11 @@
+.test-input {
+    width: 300px;
+  }
+  
+  .block {
+    display: inline-block;
+    width: 100px;
+    height: 20px;
+    background-color: darkgrey;
+    text-align: center;
+  }
